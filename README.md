@@ -23,18 +23,27 @@
 # DATASET DESCRIPTION:
 
 -**Dataset Name**-global_unemployment_data
+
 -**Dataset Source**-https://www.kaggle.com/datasets/sazidthe1/global-unemployment-data
+
 -**Column Number**-15
+
 -**Row Number**-1135
+
 -**Time Period Covered**-2014-2024
+
 -**COVID-19 Timeline**-2020-2021
+
 -**Pre-COVID**-2014-2019
+
 -**Post-COVID**-2022-2024
+
 -**Attributes Present:**
 -country_name
 -sex
 -age_group
 -age_categories
+
 -**Age Categories:**
 -Youth(15-25)
 -Adult(25+)
